@@ -24,7 +24,7 @@ setup(
     license="BSD",
     setup_requires=["setuptools_scm"],
     install_requires=[
-        "nmigen>=0.1,<0.3",
+        "nmigen",
     ],
     entry_points={
         "console_scripts": [
