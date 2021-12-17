@@ -1,4 +1,4 @@
-# A framework for building SoCs with nMigen
+# A framework for building SoCs with Amaranth HDL
 
 **LambdaSoC is a work in progress. Please keep in mind that some interfaces will undergo breaking changes as they evolve and/or get moved [upstream][nmigen-soc].**
 
