@@ -24,7 +24,7 @@ setup(
     license="BSD",
     setup_requires=["setuptools_scm"],
     install_requires=[
-        "nmigen",
+        "amaranth",
     ],
     entry_points={
         "console_scripts": [
